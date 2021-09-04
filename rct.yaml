@@ -23,9 +23,11 @@ server_configs:
 
 pd_servers:
  - host: 172.26.183.100
+   port: 8079
 
 tidb_servers:
  - host: 172.26.183.100
+   port: 8089
 
 tikv_servers:
  - host: 172.26.183.100
