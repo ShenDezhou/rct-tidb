@@ -1,8 +1,8 @@
 global:
  user: "tidb"
  ssh_port: 22
- deploy_dir: "/home/rct/rct-tidb/tidb-deploy"
- data_dir: "/home/rct/rct-tidb/tidb-data"
+ deploy_dir: "/tidb-deploy"
+ data_dir: "/tidb-data"
 
 # # Monitored variables are applied to all the machines.
 monitored:
